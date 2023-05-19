@@ -8,6 +8,6 @@ This application when in html, used a `tick()` method fired by `requestAnimation
 
 The team at DWM has been very helpful and very patient with this old-fart! Thanks!
 
-
+ 
 ## run with:    
 deno run -A --unstable ./clock.ts

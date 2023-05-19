@@ -10,4 +10,4 @@ The team at DWM has been very helpful and very patient with this old-fart! Thank
 
  
 ## run with:    
-deno run -A --unstable ./clock.ts
+deno run -A --unstable https://raw.githubusercontent.com/nhrones/SkiaClock/master/clock.ts
